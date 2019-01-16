@@ -1,0 +1,75 @@
+.logo{
+	width: 200px;
+	height: 200px;
+}
+.logo2{
+	
+}
+.thumbnail-portofolio{
+	height:150px;
+}
+.bubble{
+	max-height: 100px;
+	max-width: 100px;
+}
+.bubble2{
+	max-width: 100%;
+}
+.banner{
+	width: 100%;
+}
+.gambar{
+  width: 75%;
+  height: 75%;
+}
+
+.layout{
+  background-color: #fff;
+  margin: 7.5px;
+  padding:10px;
+  box-shadow: 0px 2px 2px;
+}
+.profil{
+	width: auto;
+	height: 250px;
+}
+.header1{
+    padding-top: 160px;
+    padding-bottom: 160px;
+    background:linear-gradient(45deg, #075d6b, #992c4c);
+}
+.content{
+	  padding-top: 70px;
+    padding-bottom: 70px;
+    background: linear-gradient(45deg, #4ad3e9, #e5658a);
+}
+.bg-grey{
+	 background-color: #f5f5f6;
+	 padding-top: 120px;
+    padding-bottom: 120px;
+}
+.bg-blk{
+background-color: black;	
+}
+.left-align{
+	text-align: left;
+}
+.box-shaddow{
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding:30px;
+	min-height: 380px;
+	background-color: #fff;
+}
+.label-shaddow{
+	box-shadow: 0 4px 8px 0 rgba(213, 213, 213, 0.2), 0 6px 20px 0 rgba(213, 213, 213, 0.2);
+	margin: 10px;
+	padding-bottom:20px;
+	padding:10px;
+	background: linear-gradient(45deg, #4ad3e9, #e5658a);
+	color: #fff;
+}
+.tab{
+	color: white;
+}
